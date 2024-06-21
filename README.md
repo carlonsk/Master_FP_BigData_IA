@@ -3,7 +3,9 @@
 
 Bloque 1
 Gestión de soluciones con sistemas de almacenamiento y herramientas del centro de datos para la resolución de problemas:
+
 – Almacenamiento de datos masivo.
+
 – Procesamiento de datos.
 – Analítica de Big Data en los ecosistemas de almacenamiento.
 – Big Data y Cloud.
