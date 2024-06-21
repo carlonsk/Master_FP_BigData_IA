@@ -1,8 +1,9 @@
 # Big Data Aplicado.
 ## Practicas de de la asignatura de Big Data Aplicado
 
-Bloque 1
-Gestión de soluciones con sistemas de almacenamiento y herramientas del centro de datos para la resolución de problemas:
+## Bloque 1
+
+### Gestión de soluciones con sistemas de almacenamiento y herramientas del centro de datos para la resolución de problemas:
 
 – Almacenamiento de datos masivo.
 
@@ -25,8 +26,9 @@ d) Se han procesado los datos almacenados.
 e) Se han presentado los resultados y las soluciones al cliente final en una forma fácil de interpretar.
 
  
-Bloque 2.
-Gestión de sistemas de almacenamiento y ecosistemas Big Data:
+## Bloque 2.
+
+### Gestión de sistemas de almacenamiento y ecosistemas Big Data:
 
 – Computación distribuida. Computación paralela.
 
@@ -59,9 +61,9 @@ d) Se ha determinado que se pueden almacenar tantos datos como se desee y decidi
 e) Se ha visualizado que el sistema puede crecer fácilmente añadiendo módulos.
 
 
-Bloque 3.
+## Bloque 3.
 
-Generación de mecanismos de Integridad de los datos. Comprobación de mantenimiento de sistemas de ficheros:
+### Generación de mecanismos de Integridad de los datos. Comprobación de mantenimiento de sistemas de ficheros:
 
 – Calidad de los datos.
 
@@ -76,11 +78,13 @@ a) Se ha valorado la importancia de la calidad de los datos en los sistemas de f
 b) Se ha valorado que a mayor volumen de tratamiento de datos corresponde un mayor peligro relacionado con la integridad de los datos.
 
 c) Se ha reconocido que los sistemas de ficheros distribuidos implementan una suma de verificación para la comprobación de los contenidos de los archivos.
+
 d) Se ha reconocido el papel del servidor en los procesos previos a la suma de verificación.
 
 
-Bloque 4.
-Monitorización, optimización y solución de problemas:
+## Bloque 4.
+
+### Monitorización, optimización y solución de problemas:
 
 – Herramientas de monitorización: Interfaz web del Jobtracker y Namenode, entre otras.
 
@@ -103,9 +107,9 @@ e) Se ha comprobado la fiabilidad de los datos según respuestas.
 f) Se ha analizado la estabilidad de servicios.
 
 
-Bloque 5.
+## Bloque 5.
 
-Validación de técnicas Big Data en la toma de decisiones en Inteligencia de negocios BI:
+### Validación de técnicas Big Data en la toma de decisiones en Inteligencia de negocios BI:
 
 – Modelos de Inteligencia de negocios
 .
